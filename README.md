@@ -21,8 +21,8 @@ A full-featured e-commerce web application built with Django, featuring user aut
 
 ### 1. Clone the repository (if applicable)
 ```bash
-git clone <repository-url>
-cd ecommerce-django
+git clone https://github.com/sondoquang/ecommerce-django-web.git
+cd ecommerce-django-web
 ```
 
 ### 2. Create and activate a virtual environment
